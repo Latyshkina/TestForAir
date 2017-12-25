@@ -1,0 +1,36 @@
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\old\Епам\Лаба 3\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+D:\old\Епам\GithabChrom\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
